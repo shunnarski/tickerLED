@@ -2,3 +2,4 @@ RPi.GPIO
 numpy
 pandas
 scipy
+requests
