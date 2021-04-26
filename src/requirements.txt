@@ -1,5 +1,6 @@
-RPi.GPIO
 numpy
 pandas
 scipy
 requests
+coinbase
+RPi.GPIO
